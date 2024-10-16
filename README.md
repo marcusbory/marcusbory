@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- ✉️ [Contact me](mailto:ong1.marcusb@gmail.com)
+
+
 <!--
 **marcusbory/marcusbory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
